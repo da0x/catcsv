@@ -1,6 +1,6 @@
 # catcsv
 
-This is a simple command line tool to view CSV files in your terminal. The output will be formatted into an easy to view box.
+View your CSV files in your terminal. The output is a formatted table.
 
 ## Installation
 
